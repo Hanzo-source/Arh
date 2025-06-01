@@ -20,7 +20,7 @@
 <!--Поддержка-->
 ## Поддержка
 Если у вас возникли сложности или вопросы по использованию пакета, создайте 
-[обсуждение](https://github.com/Hanzo-source/Arh/issues/new) в данном репозитории или напишите в телеграмм [t.me/@hagiwara_dev](https://t.me/hagiwara_dev)
+[обсуждение](https://github.com/Hanzo-source/Arh/issues/new) в данном репозитории или напишите в телеграмм [t.me/@yamontaka](https://t.me/yamontaka)
 
 <!--зависимости-->
 ## Зависимости
